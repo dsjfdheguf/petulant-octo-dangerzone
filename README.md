@@ -9,3 +9,4 @@ Sample text
 
 * Objectives
 * This is a list
+* This line was added
